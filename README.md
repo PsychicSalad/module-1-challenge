@@ -2,6 +2,19 @@
 
 ## Description
 
+### Deployed Link:
+
+**The website can be viewed from this link:**
+
+https://psychicsalad.github.io/module-1-challenge/
+
+
+### Repo Link:
+
+**The repository can be accessed from this link:**
+
+https://github.com/PsychicSalad/module-1-challenge
+
 This code was refactored in order to help to optimize the website of the Horiseon marketing agency for search engines, to improve accessibility of the website and in order to make the code easier for other developers to work with. The website was originally designed in order to advertise and inform users and potential customers of the services that the Horiseon company offer, including Search Engine Optimization, Online Reputation Management and Social Media Marketing. 
 
 By refactoring the HTML and CSS and incorporating semantic HTML elements, the code should not only be easier to navigate but should allow an improved browsing experience; especially for those using screen readers. This should also improve the amount of traffic visiting the website and therefore increase the number of potential customers for the company.
@@ -19,10 +32,6 @@ To use the website simply download the files, and if you open the files in VSCod
 You can also do this by using the shortcut Alt + B to open it in your default browser.
 
 Alternatively opening the index.html file in your browser will also display the website.
-
-The website can be viewed from this link:
-
-https://psychicsalad.github.io/module-1-challenge/
 
 To view the different sections, click on the links in the navigation bar at the top of the site; each one will take you to its corresponding section (for example, if you click "Social Media Marketing" the link will take you to the Social Media Marketing section lower down on the page).
 
